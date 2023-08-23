@@ -3,4 +3,4 @@
 - João Pedro Maia Matulevicius Garcia - 32241429
 
 # Como clonar o repositório
-Basta dar o comando git clone git@github.com:Darkyie/aws
+Basta dar o comando "git clone git@github.com:Darkyie/aws"
